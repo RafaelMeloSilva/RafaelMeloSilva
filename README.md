@@ -1,29 +1,28 @@
-# Bem-vindo ao meu GitHub! 👋
-
-Olá, sou Gabriel Melo, um entusiasta de engenharia e data science. 💻 Meu objetivo aqui é compartilhar conhecimentos e experiências através de código, explorando desafios interessantes e soluções inovadoras.
+## Bem-vindo ao meu GitHub! 👋
+Olá, sou Rafael Melo, um entusiasta analista de dados apaixonado por transformar dados em insights valiosos. 📊 Meu objetivo aqui é compartilhar conhecimentos e experiências através de projetos e análises, explorando desafios interessantes e soluções inovadoras.
 
 ## O que você encontrará aqui:
+Projetos de análise de dados: Utilizando Excel, Power BI, SQL e G4 Analytics para entregar soluções robustas.
 
-- Projetos de engenharia de engenharia de dados, desde aplicações web até scripts de automação.
-- Notebooks com análises, criações e implementações de modelos data science.
-- Utilização do Apache Airflow para orquestração de fluxos de dados.
-- Análises exploratórias utilizando PySpark, Pandas, DuckDB e SQL.
-- Transformações eficientes com dbt (data build tool) para modelagem e documentação de dados.
-- Infraestrutura como código (IaC) com Terraform para provisionamento e gerenciamento de recursos.
+Dashboards interativos: Relatórios criados com Power BI para visualização e análise de dados, proporcionando insights acionáveis.
+
+Scripts SQL: Para manipulação eficiente e consulta de bancos de dados, otimizando processos e operações.
+
+Análises exploratórias: Transformações de dados em Excel para descobertas detalhadas.
+
+Casos de uso reais: Estudos de caso que demonstram a aplicação prática das ferramentas, abordando problemas do mundo real com soluções inovadoras.
 
 Fique à vontade para explorar meus repositórios e contribuir com ideias ou melhorias. A jornada de aprendizado é constante, e a colaboração é fundamental para o crescimento mútuo. 🚀
 
-### Principais Tecnologias e Ferramentas:
+## Principais Tecnologias e Ferramentas:
+Excel 📊
 
-- Python 🐍
-- Flask, FastAPI 🌐
-- Pandas, NumPy, Scikit-Learn 📊
-- TensorFlow, PyTorch 🚀
-- Apache Airflow ☁️
-- PySpark 🚀
-- dbt (data build tool) 🛠️
-- Terraform 🏗️
+Power BI 📈
+
+SQL 🗃️
+
+G4 Analytics 🛠️
 
 Sinta-se à vontade para entrar em contato para discussões, parcerias ou apenas para trocar ideias interessantes. Estou animado para construir uma comunidade de aprendizado e inovação.
 
-Vamos codificar o futuro juntos! 🌟
+Vamos transformar dados em valor e codificar o futuro juntos! 🌟
