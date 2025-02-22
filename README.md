@@ -23,6 +23,13 @@ SQL 🗃️
 
 G4 Analytics 🛠️
 
+## Habilidades Adicionais:
+Estatística: Uso de métodos estatísticos para análise de dados e extração de insights significativos.
+
+Modelagem de Dados: Criação de modelos de dados que facilitam a compreensão e análise das informações.
+
+Insights e Informações Estratégicas: Transformação de dados em insights valiosos e informações estratégicas para melhorar a tomada de decisões no negócio.
+
 Sinta-se à vontade para entrar em contato para discussões, parcerias ou apenas para trocar ideias interessantes. Estou animado para construir uma comunidade de aprendizado e inovação.
 
 Vamos transformar dados em valor e codificar o futuro juntos! 🌟
